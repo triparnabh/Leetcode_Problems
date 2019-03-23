@@ -5,4 +5,4 @@ class Solution:
         for i in S:
             if i in J:
                 count = count + 1
-        return count  
+        return count
